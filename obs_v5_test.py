@@ -3,7 +3,7 @@ import simpleobsws
 
 OBS_HOST = "localhost"
 OBS_PORT = 4455
-OBS_PASSWORD = "zyJ0vfo9rpf94syx"  # set this to your real one
+OBS_PASSWORD = ""  # set this to your real one
 
 async def main():
     url = f"ws://{OBS_HOST}:{OBS_PORT}"
