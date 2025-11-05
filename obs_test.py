@@ -2,7 +2,7 @@ from obswebsocket import obsws, requests
 
 host = "localhost"
 port = 4455   # change if yours is different
-password = "Jr7C7vUckGn7optN"
+password = ""
 
 try:
     ws = obsws(host, port, password)
