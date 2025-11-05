@@ -8,7 +8,7 @@ from pathlib import Path
 
 OBS_HOST = "localhost"
 OBS_PORT = 4455
-OBS_PASSWORD = "zyJ0vfo9rpf94syx"  # use the same as your OBS settings
+OBS_PASSWORD = ""  # use the same as your OBS settings
 
 async def main():
     # connect to OBS
